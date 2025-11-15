@@ -1,3 +1,8 @@
+
+
+
+
+    --my stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meow-mrr" />
@@ -7,13 +12,18 @@
 </a>
 </div>
 
-
-
-
+    --snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
+</div>
+
+    --counter of views
+<div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=meow-mrr&style=for-the-badge">
+</a>
 </div>
