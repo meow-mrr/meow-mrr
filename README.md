@@ -1,16 +1,16 @@
 
-
-
-
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meow-mrr" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meow-mrr&layout=compact&langs_count=8&card_width=320" />
+<div align="center">
+  <picture>
+  <sourse
+    href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meow-mrr&show_icons=true&theme=dark"
+      
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meow-mrr&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 </div>
+
+
 
 
 <div align="center">
@@ -60,4 +60,4 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTJyOHdlOXAyN3l5OWRxZjMwb3Y4bm1sbms1eno0b3N1eWN0a25qOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2A7sXQ9aDWzWfvqi5f/giphy.gif" width="600" height="300"/>
-</div>**
+</div>
